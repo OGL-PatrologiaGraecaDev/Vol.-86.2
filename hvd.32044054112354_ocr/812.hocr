@@ -1,0 +1,20 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/86:2/hvd.32044054112354/812.png"; bbox 0 0 4044 6208; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2839 135 3856 420">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2839 135 3856 420">
+     <span class='ocr_line' id='line_1_1' title="bbox 2839 135 3856 420; baseline 0.008 -7"><span class='ocrx_word' id='word_1_1' title='bbox 2839 135 3856 420; x_wconf 52' lang='lat' dir='ltr'><strong>magna!!!</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3296 348 3853 429">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3296 348 3853 429">
+     <span class='ocr_line' id='line_1_2' title="bbox 3296 348 3853 429; baseline 0.018 -9"><span class='ocrx_word' id='word_1_2' title='bbox 3296 348 3401 421; x_wconf 89' lang='lat'><strong>54</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 3473 352 3627 426; x_wconf 86' lang='lat'><strong>112</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 3692 354 3853 429; x_wconf 90' lang='lat'><strong>354</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3694 818 3976 1546">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3699 822 3972 1541">
+     <span class='ocr_line' id='line_1_3' title="bbox 3699 822 3972 1541; baseline 0.022 -3"><span class='ocrx_word' id='word_1_5' title='bbox 3699 822 3972 1541; x_wconf 65' lang='grc'>1</span> 
+     </span>
+    </p>
+   </div>
+  </div>
